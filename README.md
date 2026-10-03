@@ -4,7 +4,7 @@
 
 ### Boost the volume of videos and audio beyond the browser's normal limit.
 
-Volume Booster is a lightweight browser extension that lets you increase the volume of audio and video playing in the current tab — up to **500%**.
+Volume Booster is a lightweight browser extension that lets you increase the volume of audio and video playing in the current tab - up to **500%**.
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/volume-booster/iobdhicnjoondkokmbibhaoagkcacmln)
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-orange?style=for-the-badge)](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3)
@@ -43,15 +43,15 @@ It is designed to be simple: open the extension, adjust the volume, and keep wat
 
 ## Features
 
-- **Volume boost up to 500%** — go beyond the browser's normal 100% volume limit.
-- **Current-tab audio control** — boost audio from media playing in the active tab.
-- **Works with video and audio** — designed for browser-based media.
-- **Simple volume control** — adjust amplification without complicated configuration.
-- **Free to use** — available as a free Chrome extension.
-- **No ads** — the published extension is advertised as ad-free.
-- **No malware** — the project is intended to provide only its volume-boosting functionality.
-- **Privacy-focused** — the Chrome Web Store disclosure states that the developer does not collect or use user data.
-- **Lightweight** — built as a focused browser extension with a small set of permissions.
+- **Volume boost up to 1000%** - go beyond the browser's normal 100% volume limit.
+- **Current-tab audio control** - boost audio from media playing in the active tab.
+- **Works with video and audio** - designed for browser-based media.
+- **Simple volume control** - adjust amplification without complicated configuration.
+- **Free to use** - available as a free Chrome extension.
+- **No ads** - the published extension is advertised as ad-free.
+- **No malware** - the project is intended to provide only its volume-boosting functionality.
+- **Privacy-focused** - the Chrome Web Store disclosure states that the developer does not collect or use user data.
+- **Lightweight** - built as a focused browser extension with a small set of permissions.
 
 ## How it works
 
@@ -169,9 +169,9 @@ The extension is intended to work with media playing in the current browser tab.
 | --- | --- |
 | `100%` | Normal browser volume |
 | `200%` | 2× the normal level |
-| `300%` | 3× the normal level |
 | `400%` | 4× the normal level |
-| `500%` | 5× the normal level |
+| `800%` | 8× the normal level |
+| `1000%` | 10× the normal level |
 
 The actual perceived loudness depends on the source audio, device, operating system, speakers, headphones, and other audio processing.
 
