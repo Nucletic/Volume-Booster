@@ -4,7 +4,7 @@
 
 ### Boost the volume of videos and audio beyond the browser's normal limit.
 
-Volume Booster is a lightweight browser extension that lets you increase the volume of audio and video playing in the current tab - up to **500%**.
+Volume Booster is a lightweight browser extension that lets you increase the volume of audio and video playing in the current tab - up to **1000%**.
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/volume-booster/iobdhicnjoondkokmbibhaoagkcacmln)
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-orange?style=for-the-badge)](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3)
@@ -22,7 +22,7 @@ Volume Booster is a lightweight browser extension that lets you increase the vol
 
 **Volume Booster** increases the maximum volume of videos and audio playing in your current browser tab.
 
-Sometimes 100% simply isn't loud enough. Volume Booster lets you push the volume beyond the browser's standard limit and boost it up to **500%**, making it useful for quiet videos, low-volume recordings, online courses, music, podcasts, and other browser-based media.
+Sometimes 100% simply isn't loud enough. Volume Booster lets you push the volume beyond the browser's standard limit and boost it up to **1000%**, making it useful for quiet videos, low-volume recordings, online courses, music, podcasts, and other browser-based media.
 
 It is designed to be simple: open the extension, adjust the volume, and keep watching or listening.
 
